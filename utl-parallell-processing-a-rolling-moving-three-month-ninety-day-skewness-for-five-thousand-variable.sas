@@ -9,12 +9,15 @@ Parallell processing a rolling moving three month ninety day skewness for five t
                                                                                                                                                  
      Running 25 sequential tasks  610                                                                                                            
      Running 25 parallel tasks     33                                                                                                            
-                                                                                                                                                 
+  
+github                                                                                                                                   
+https://tinyurl.com/y6f7sdgr                                                                                                             
+https://github.com/rogerjdeangelis/utl-parallell-processing-a-rolling-moving-three-month-ninety-day-skewness-for-five-thousand-variable  
+  
 SAS Forum                                                                                                                                        
 https://tinyurl.com/y3wbjhge                                                                                                                     
 https://communities.sas.com/t5/SAS-Programming/Rolling-Skewness-with-Moving-Window/m-p/679918                                                    
-                                                                                                                                                 
-                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                  
 SEE                                                                                                                                              
                                                                                                                                                  
 github                                                                                                                                           
